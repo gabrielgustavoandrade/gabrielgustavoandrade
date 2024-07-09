@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I'm a Full-Stack Developer following MACH Alliance Manifesto.
+I'm a Full-Stack Developer working with Cutting-Edge Technologies.
 
 ### 💫 About Me:
-🏢 I'm currently working at Valtech.<br>⚙️ I use daily: React, NextJS, Node, GraphQL.<br>💬 Ping me about CSS, NextJS, Node, MACH.
+⚙️ I use daily: React, NextJS, Node, GraphQL.<br>💬 Ping me about CSS, NextJS, Node, MACH.
 
 
 # 💻 Tech Stack:
